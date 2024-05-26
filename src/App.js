@@ -30,7 +30,7 @@ class App extends Component {
             "zip": "94115"
           },
           "website": "https://vinay-bojja.github.io/vinaybojja",
-          "resumedownload":"https://drive.google.com/file/d/1e4z1Xi8bVYxcs5uigW6XJdV3RG1ejyGd/view?usp=sharing",
+          "resumedownload":"https://drive.google.com/file/d/1hqJyD7rzrYWOBf6gpmGngAdl0eTLACPk/view?usp=sharing",
           "social":[
             {
               "name":"facebook",
@@ -105,10 +105,16 @@ class App extends Component {
               "description":"Successfully oversaw the execution of 15+ SQL batch flows, ensuring timely code adjustments within specified windows for any identified failures, contributing to a 20% reduction in system downtime. Played a pivotal role in deploying pre-production to production, managing 100+ pre-production PLSQL jobs, delivering comprehensive analyses to the team, resulting in a 30% improvement in deployment efficiency."
             },
             {
-              "company":"Inprospect Technologies, Pune",
+              "company":"Studium, Pune",
               "title":"NodeJs Developer Intern",
               "years":"December 2018 - January 2019",
               "description":"Integrated role-based authentication to enforce rigorous access control and bolster security measures within the project. Applied private routes for secure authentication, enhancing data privacy and access control."
+            },
+            {
+              "company":"Virtoustack Softwares Pvt. Ltd, Pune",
+              "title":"Software Engineer",
+              "years":"August 2017 - August 2020",
+              "description":"Developed an Airlines Web Application Interface enabling users to search, book flights, and receive tickets increasing user satisfaction by 30% through secure login and authentication. Engineered a Home Intrusion Detection System with a 97.6% accuracy using the R-CNN algorithm and TensorFlow, providing real-time alerts and enhancing homeowner security."
             }
           ],
           "skills":[
@@ -189,12 +195,6 @@ class App extends Component {
         "portfolio":{
           "projects": [
             {
-              "title":"Airlines Management System",
-              "category":"",
-              "image":"canadian-wanderlust.jpg",
-              "url":"https://github.com/vinay-bojja/Airlines-Backend.git"
-            },
-            {
               "title":"TravelHelper - A Hotel Review Website",
               "category":"University Project",
               "image":"fury-fighting-gear.jpg",
@@ -205,18 +205,6 @@ class App extends Component {
               "category":"Website I built for a restaurant I like in Thailand",
               "image":"original-thai-food.jpg",
               "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-              "title":"Resume Website",
-              "category":"A React based resume website template",
-              "image":"resume-website.jpg",
-              "url":"http://www.timbakerdev.com"
-            },
-            {
-              "title":"Smirkspace",
-              "category":"(MVP Only) A React and Meteor based chat University project.",
-              "image":"smirkspace.jpg",
-              "url":"http://www.smirkspace.com"
             }
           ]
         },
