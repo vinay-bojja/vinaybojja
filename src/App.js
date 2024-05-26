@@ -29,7 +29,7 @@ class App extends Component {
             "state":"California",
             "zip": "94115"
           },
-          "website": "https://vinay-bojja.github.io",
+          "website": "https://vinay-bojja.github.io/vinaybojja",
           "resumedownload":"https://drive.google.com/file/d/1hqJyD7rzrYWOBf6gpmGngAdl0eTLACPk/view?usp=sharing",
           "social":[
             {
