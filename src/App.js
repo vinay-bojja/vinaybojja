@@ -202,7 +202,7 @@ class App extends Component {
             },
             {
               "title":"Original Thai Food",
-              "category":"Website I built for a restaurant I like in Thailand",
+              "category":"Website  I built for a restaurant I like in Thailand",
               "image":"original-thai-food.jpg",
               "url":"http://www.timbakerdev.com/originalthaifood.github.io"
             }
